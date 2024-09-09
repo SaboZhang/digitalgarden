@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
 hello 👋，我是 十二时镜 ❄️，一个运维实施工程师。
