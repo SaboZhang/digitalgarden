@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
+
+<div style="text-align:center;" ><font size="92px">😎</font></div>
+
 hello 👋，我是 十二时镜 ❄️，一个运维实施工程师。
 
 ## 最近创建
