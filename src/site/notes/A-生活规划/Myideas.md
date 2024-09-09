@@ -13,5 +13,5 @@
 - [ ] 测试测试  2022-10-27 17:10:58
 - [ ] 🌴  2023-07-02 10:07:01
 - [ ] 改用PIcGo-Core 上传试试 
-![028.jpg](https://pic.taosugar.com/obsidian/20230714183439446.jpg)
+![028.jpg](https://media.luckyits.com/obsidian/20230714183439446.jpg)
 
