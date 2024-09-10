@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A-生活规划/Myideas/"}
+{"dg-publish":true,"permalink":"/A-生活规划/Myideas/","noteIcon":""}
 ---
 
 
